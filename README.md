@@ -62,7 +62,7 @@ README.md
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/insat-rag-assistant.git
+git clone https://github.com/mohamedezerbouzouraa/INSAT-RAG-assistant.git
 cd insat-rag-assistant
 ```
 
