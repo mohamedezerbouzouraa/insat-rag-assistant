@@ -122,32 +122,13 @@ Add screenshots here.
 * Groq API
 * HTML/CSS/JS
 
----
 
-# 🔒 Security Notes
-
-Never expose your API keys publicly.
-
-Use environment variables instead of hardcoding secrets.
-
----
-
-# 📈 Future Improvements
-
-* Vector database support
-* Hybrid search
-* Authentication
-* Chat history
-* Voice assistant
-* PDF ingestion
-* Docker deployment
-* MongoDB integration
 
 ---
 
 # 👨‍💻 Author
 
-Mohamed Ezer
+Mohamed Ezer Bouzouraa
 
 INSAT — Institut National des Sciences Appliquées et de Technologie
 
